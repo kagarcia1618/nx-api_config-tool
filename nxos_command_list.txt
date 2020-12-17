@@ -1,0 +1,11 @@
+cfg,show running-config
+log,show version
+log,show inventory
+log,show interface status
+log,show ip interface brief vrf all
+log,show interface
+log,show interface transceiver details
+log,show nve vni
+log,show nve peers
+log,show mac address-table
+log,show l2route evpn mac-ip all
